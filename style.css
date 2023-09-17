@@ -94,6 +94,9 @@ nav ul li a:hover::after
     color: aquamarine;
 }
 
+h2{
+    font-size: 40px;
+}
 #element {
     font-size: 44px;
     color: aquamarine;
