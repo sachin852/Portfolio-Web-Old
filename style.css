@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Barriecito&family=Bubblegum+Sans&family=Kaushan+Script&family=Preahvihear&family=Rubik+Dirt&family=Ubuntu:wght@300&family=VT323&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@200&family=Ubuntu:wght@300&display=swap");
 *{
     margin:0;
     padding:0;
@@ -107,6 +109,7 @@ h2{
 {
     padding: 50px 0;
     color:aliceblue;
+    font-family: "Ubuntu", sans-serif;
 }
 #about::before
 {
