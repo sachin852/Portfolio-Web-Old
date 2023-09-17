@@ -109,7 +109,6 @@ h2{
 {
     padding: 50px 0;
     color:aliceblue;
-    font-family: "Ubuntu", sans-serif;
 }
 #about::before
 {
@@ -146,9 +145,11 @@ h2{
     font-weight: 600;
     color: white;
 }
-.col-2 p
-{
+.col-2 p {
     margin-top: 25px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    line-height: 28px;
 }
 .tab-titles
 {
